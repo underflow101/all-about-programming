@@ -14,3 +14,4 @@
 
 |대주제|중주제|소주제|제목|업데이트 날짜|
 |-|-|-|-|-|
+|Language|Python|Generator|generator|2021.05.22|
